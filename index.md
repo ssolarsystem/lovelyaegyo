@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## 아름다운 애교님
 
-You can use the [editor on GitHub](https://github.com/ssolarsystem/lovelyaegyo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+애교님 클립을 박제해서 모아두는 사이트입니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image](src)
 
 ### Markdown
 
