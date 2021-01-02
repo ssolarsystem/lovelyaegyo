@@ -4,34 +4,18 @@
 
 ![Image](20201228_121858.jpg)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+#### 애교는 누구인가?
 
-# Header 1
-## Header 2
-### Header 3
+------
 
-- Bulleted
-- List
+트위치에서 방송을 진행하는 스트리머로 **<u>아조씨</u>**입니다.
 
-1. Numbered
-2. List
+방송링크 : [애교씨 - Twitch](https://www.twitch.tv/lovelyaegyo)
 
-**Bold** and _Italic_ and `Code` text
+목소리 좋은 아조씨니 듣기 좋아요
 
-[Link](url) and ![Image](src)
-```
+![20210102112.png](20210102112.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ssolarsystem/lovelyaegyo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![](20201228_121516.jpg)
