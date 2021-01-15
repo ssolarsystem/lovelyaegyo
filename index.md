@@ -19,3 +19,16 @@
 ![20210102112.png](20210102112.png)
 
 ![](20201228_121516.jpg)
+
+
+
+#### 클립
+
+------
+
+링크 1 : ㅇ..애교님?(https://www.twitch.tv/lovelyaegyo/clip/ClearVivaciousGarlicAMPTropPunch)
+
+링크 2 : 이게 뭐가 어려워 쓰레기들아 이게 좋아? (첫클립_매도)(https://www.twitch.tv/lovelyaegyo/clip/CovertMagnificentPresidentAMPEnergyCherry)
+
+
+
